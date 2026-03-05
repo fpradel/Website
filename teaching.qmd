@@ -2,7 +2,7 @@
 title: "Teaching"
 ---
 
-My teaching philosophy is grounded in the belief that **methodological competence is a prerequisite for modern citizenship**. I aim to equip students with the "dual profile" needed for the digital age: a deep understanding of political challenges and the technical skills (R, CSS, Experiments) to investigate them.
+My teaching philosophy is grounded in the belief that **methodological competence is a crucial asset for political communication research as well as for navigating today's data-driven information environment**. I aim to equip students with the "dual profile" needed for the digital age: a deep understanding of political challenges and the technical skills (R, CSS, Experiments) to investigate them.
 
 
 
@@ -31,4 +31,4 @@ I am the co-founder and organizer of **"Hack Your Future,"** a specialized Data 
 * **Funding:** Secured competitive internal funding (~€15,000) to support the program.
 
 ### Educational Resources
-* **SAGE Research Methods:** I was invited to produce an instructional video case study on *"Experimental Research on Hate Speech,"* widely used for methods training.
+* **SAGE Research Methods:** I was invited to produce an instructional video case study on *"Experimental Research on Hate Speech."* 

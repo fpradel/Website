@@ -6,13 +6,11 @@ title: "Publications"
 
 *These papers are currently under review or in advanced preparation.*
 
--   **Gender Differences in Demanding Moderation** (with Y. Theocharis & S. Kosmidis) *Currently under review in Political Behavior*. \[[Preprint](https://osf.io/preprints/osf/aw6tk_v1)\]
+-   **Gender Differences in Demanding Moderation** (with Y. Theocharis & S. Kosmidis) \[[Preprint](https://osf.io/preprints/osf/aw6tk_v1)\]
 
 -   **Mapping Elite Interconnections: Using Wikidata and Wikipedia for Social Network Analysis** (with D. Tisch) *Conditional Accept in Soziale Welt (Special Issue on Computational Social Science)*.
 
 -   **Systemic Toxicity Inference Drives Discourse Withdrawal Across 10 Democracies** (with F. Quint & Y. Theocharis)
-
--   **Democratic Dissatisfaction Erodes the Spiral of Silence in Online Discourse** (with F. Quint, J. Zilinsky, Y. Theocharis, & S. Kosmidis)
 
 ------------------------------------------------------------------------
 
