@@ -6,6 +6,7 @@ project:
 
 website:
   title: "Franziska Pradel"
+  site-url: "https://www.franziskapradel.com"
   navbar:
     left:
       - text: "Home"
