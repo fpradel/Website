@@ -11,14 +11,14 @@
     "href": "teaching.html#course-portfolio",
     "title": "Teaching",
     "section": "Course Portfolio",
-    "text": "Course Portfolio\n\nMethods & Data Science\n\nExperimental Methods in Political Science (TUM, 2022-2023)\n\nContent: Causal inference, survey experiment design, and analysis in R.\n\nData Science with R (Workshop)\n\nContent: Web scraping, API access, and dictionary-based analysis.\n\n\n\n\nSubstantive Political Science\n\nDigital Media, Politics, and Gender (TUM, 2021-2026)\n\nContent: Analyzing online political communication, gender bias in algorithms, and hate speech.\n\nOnline Content Moderation and Free Speech (TUM, 2023)\n\nContent: The governance of digital platforms and the tension between free speech and harm."
+    "text": "Course Portfolio\n\nSubstantive Political Science\n\nDigital Media, Politics, and Gender (Two interconnected seminars, TUM, 2021-2026) | Syllabus\n\nContent - Seminar 1: Literature Focus: Empirical insights into digital media, politics and gender.\nContent - Seminar 2: Hands-On: Analyzing online political communication, gender bias in algorithms, and toxicity.\n\nOnline Content Moderation and Free Speech (TUM, 2023)\n\nContent: The governance of digital platforms and the tension between free speech and harm.\n\n\n\n\nMethods & Data Science\n\nExperimental Methods in Political Science (TUM, 2022-2023)\n\nContent: Causal inference, survey experiment design, and analysis in R.\n\nData Science with R (Workshop)\n\nContent: Web scraping, API access, and dictionary-based analysis."
   },
   {
     "objectID": "teaching.html#mentorship-outreach",
     "href": "teaching.html#mentorship-outreach",
     "title": "Teaching",
     "section": "Mentorship & Outreach",
-    "text": "Mentorship & Outreach\n\nHack Your Future\nOne of my core commitments is closing the gender gap in Computational Social Science.\nI am the co-founder and organizer of “Hack Your Future,” a specialized Data Science Summer School for female students at the University of Cologne. * Goal: Empowering women to enter data science fields. * Impact: Provided hands-on training in R to female students. * Funding: Secured competitive internal funding (~€15,000) to support the program.\n\n\nEducational Resources\n\nSAGE Research Methods: I was invited to produce an instructional video case study on “Experimental Research on Hate Speech.”"
+    "text": "Mentorship & Outreach\n\nHack Your Future\nOne of my core commitments is closing the gender gap in Computational Social Science.\nI was the co-founder and organizer of “Hack Your Future,” a specialized Data Science Summer School for female students at the University of Cologne. * Goal: Empowering women to enter data science fields. * Impact: Provided hands-on training in R to female students. * Funding: Secured competitive internal funding (~€15,000) to support the program.\n\n\nEducational Resources\n\nSAGE Research Methods: I was invited to produce an instructional video case study on “Experimental Research on Hate Speech.”"
   },
   {
     "objectID": "research.html",
@@ -32,7 +32,7 @@
     "href": "research.html#grants-awards",
     "title": "Research",
     "section": "Grants & Awards",
-    "text": "Grants & Awards\nMy research has been supported by competitive funding and recognized by international awards.\n\nSecured Funding\n\nTUM Think Tank / HfP Seed Funding (2026) Principal Investigator | “AI-driven Empowerment in Political Discussions” (Pilot for ERC Grant).\nRe-Boot Social Media Lab (2022-2023) Co-Principal Investigator | “Platforms for the People” (€35k).\n\n\n\nResearch Honors\n\nFinalist: WWTF Young Research Group (2024) Selected for the final round of the Vienna Science and Technology Fund call (approx. €1.6M volume), confirming the high quality of the research proposal.\nBest Paper Award (2019) ACM Web Science Conference"
+    "text": "Grants & Awards\nMy research has been supported by competitive funding and recognized by international awards.\n\nSecured Funding\n\nTUM Think Tank / HfP Seed Funding (2026) Principal Investigator | “AI-driven Empowerment in Political Discussions” (Pilot for ERC Grant application).\nRe-Boot Social Media Lab (2022-2023) Co-Principal Investigator | “Platforms for the People” (€35k).\n\n\n\nResearch Honors\n\nFinalist: WWTF Young Research Group (2024) Selected for the final round of the Vienna Science and Technology Fund call (approx. €1.6M volume), confirming the high quality of the research proposal.\nBest Paper Award (2019) ACM Web Science Conference"
   },
   {
     "objectID": "index.html",
